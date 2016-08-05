@@ -1,0 +1,41 @@
+_repo: A-Wodehouse-Miscellany--Articles--amp--Stories_8190
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Windham, Basil
+    - Wodehouse, Pelham Grenville
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Valets -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Jeeves (Fictitious character) -- Fiction'
+- !lcsh 'Wooster, Bertie (Fictitious character) -- Fiction'
+- !lcsh 'Humorous stories, English'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: 'Articles: Some aspects of game-captaincy. An unfinished collection.
+  The new advertising. The secret pleasures of Reginald. My battle with drink. In
+  defense of astigmatism. Photographers and me. A plea for indoor golf. The alarming
+  spread of poetry. My life as a dramatic critic. The agonies of writing a musical
+  comedy: which shows why librettists pick at the coverlet. On the writing of lyrics.
+  The past theatrical season: and the six best perfomances by unstarred actors --
+  Poems: Damon and Pythias: a romance. The haunted tram -- Stories: When papa swore
+  in Hindustani. Tom, Dick, and Harry. Jeeves takes charge. Disentangling old Duggie.'
+title: 'A Wodehouse Miscellany: Articles & Stories'
+url: http://www.gutenberg.org/ebooks/8190
